@@ -1,0 +1,1 @@
+This files are creating on the purpose of practicing Git and its working nature.
